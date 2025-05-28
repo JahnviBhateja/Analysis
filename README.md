@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Jahnvi Bhateja! I am currently pursuing a Master's degree in Economics from IGNOU and preparing for the RBI Grade B – DEPR exam (2026). I have also completed certification courses in Power BI, Excel, and Python from CloudyML. My journey into data analysis is driven by a strong interest in economic data, public policy, and business decision-making.
+Hi, I'm Jahnvi Bhateja! I am pursuing a Master's degree in Economics from IGNOU and preparing for the RBI Grade B – DEPR exam (2026). I have also completed certification courses in Power BI, Excel, and Python from CloudyML. My journey into data analysis is driven by a strong interest in economic data, public policy, and business decision-making.
 
 I am passionate about using data to generate actionable insights, and I'm continually building my skills in data visualization, data cleaning, and statistical analysis. With a blend of economics and data science, I am eager to contribute as an entry-level data analyst.
 
@@ -23,6 +23,10 @@ My CV is available in [pdf](link-to-your-cv).
 - [Pandas](https://colab.research.google.com/drive/1HnKuCfLRKKmiNVb4QstZbvH7_8YwKyJJ?usp=sharing)
 - [variables](https://colab.research.google.com/drive/1mcTt_X1xSEPyQ59hNvJdOZXVyr5wuQaz?usp=sharing)
 
+### SQL
+
+-[Cricket SQL Case Study](#Cricket-SQL-Case-Study)
+
 ### Excel / Power BI
 - [Customer Acquisition Financial Plan – AcmeTech](link-to-project): Developed a customer acquisition model and dashboard to support strategic planning using Excel and Power BI.
 
@@ -31,7 +35,62 @@ My CV is available in [pdf](link-to-your-cv).
 - [Housewives’ Unpaid Labor & British Economic Exploitation](link-to-project): A paper comparing historical unpaid labor and colonial economic drain, with metrics designed for economic evaluation.
 
 ---
+## 📂 Portfolio Projects
 
+### Cricket SQL Case Study (SQL)
+
+- **Tools:** Power BI, DAX, Excel  
+- **Summary:** Analyzed credit risk data to generate insights on borrower profiles, default trends, and risk segmentation. Created an interactive dashboard with slicers, KPIs, and dynamic visualizations.
+- **Key Skills:** Data modeling, DAX measures, Power BI storytelling  
+- 📎 [View Project](#CricketCaseStudy.sql)
+
+---
+
+### Madrid Real Estate Market Analysis (Power BI)
+
+- **Tools:** Power BI, Excel  
+- **Summary:** Explored relationships between house features (garden, terrace, lift, etc.) and pricing trends in Madrid’s housing market. Derived actionable insights using visualizations and filters.
+- **Key Skills:** Data cleaning, correlation analysis, visual storytelling  
+- 📎 [View Project](#)
+
+---
+
+### Customer Acquisition Financial Plan (Excel)
+
+- **Tools:** Excel, XLOOKUP, Pivot Tables, Charting  
+- **Summary:** Built a detailed financial plan for a marketing campaign, analyzing acquisition costs, ROI, and monthly performance using formulas and dashboards.
+- **Key Skills:** Budget planning, dashboard creation, cost analysis  
+- 📎 [View Project](#)
+
+---
+
+## 🎓 Education
+
+**Master of Arts in Economics**  
+Indira Gandhi National Open University (IGNOU)  
+*Expected Completion: 2026*
+
+---
+
+## 📜 Certificates
+
+- **Data Analysis with Excel** – CloudyML  
+- **Python for Data Science** – CloudyML  
+- **Power BI for Beginners** – CloudyML  
+- **Peer Support Training Certificate**  
+- **Bystander Intervention Workshop** – German college  
+
+---
+
+## 📬 Contact
+
+- **Email:** [YourEmail@example.com]  
+- **LinkedIn:** [linkedin.com/in/your-profile](#)  
+- **GitHub:** [github.com/yourusername](#)
+
+---
+
+> *“Turning data into decisions.”*
 > This is a repository to showcase my skills, share projects, and track my journey in Economics, Data Analytics, and Policy Research.
 
 Feel free to connect or collaborate!
