@@ -16,51 +16,37 @@ My CV is available in [pdf](link-to-your-cv).
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+- [Education](#🎓-Education)
+- [Certificates](#certificates)
+- [Contact](#Contact)
 
 ## Portfolio Projects
 
 ### Python
 - [Pandas](https://colab.research.google.com/drive/1HnKuCfLRKKmiNVb4QstZbvH7_8YwKyJJ?usp=sharing)
+  Performed basic exploratory data analysis on sales data: imported CSV files, handled missing values, performed groupings and filtering, and visualized trends.
+  
 - [variables](https://colab.research.google.com/drive/1mcTt_X1xSEPyQ59hNvJdOZXVyr5wuQaz?usp=sharing)
+  Practiced writing clean code using variables, basic data types, and simple operations to strengthen Python fundamentals.
 
 ### SQL
 
 -[Cricket SQL Case Study](#Cricket-SQL-Case-Study)
+Wrote SELECT queries, JOINs, and filtering operations to explore a cricket dataset and understand player performance and match stats.
 
-### Excel / Power BI
-- [Customer Acquisition Financial Plan – AcmeTech](link-to-project): Developed a customer acquisition model and dashboard to support strategic planning using Excel and Power BI.
+### Excel
+- [Medical Analysis Case Study]
+  Used: Excel functions (VLOOKUP, PivotTables, Conditional Formatting) | Analyzed 2,000+ rows of hospital data to track diagnoses, length of stay, and treatment cost.
+  
+- [Retail Sales Case Study]
+  Used: Excel dashboarding and formulas | Conducted region-wise sales analysis, profitability tracking, and visualized monthly KPIs.
 
-### Economics / Research
-- [Expected Utility Theory and Risk](link-to-project): Covered theoretical analysis of decision-making under uncertainty including the St. Petersburg Paradox and risk premiums.
-- [Housewives’ Unpaid Labor & British Economic Exploitation](link-to-project): A paper comparing historical unpaid labor and colonial economic drain, with metrics designed for economic evaluation.
-
----
-## 📂 Portfolio Projects
-
-### Cricket SQL Case Study (SQL)
-
-- **Tools:** Power BI, DAX, Excel  
-- **Summary:** Analyzed credit risk data to generate insights on borrower profiles, default trends, and risk segmentation. Created an interactive dashboard with slicers, KPIs, and dynamic visualizations.
-- **Key Skills:** Data modeling, DAX measures, Power BI storytelling  
-- 📎 [View Project](#CricketCaseStudy.sql)
-
----
-
-### Madrid Real Estate Market Analysis (Power BI)
-
-- **Tools:** Power BI, Excel  
-- **Summary:** Explored relationships between house features (garden, terrace, lift, etc.) and pricing trends in Madrid’s housing market. Derived actionable insights using visualizations and filters.
-- **Key Skills:** Data cleaning, correlation analysis, visual storytelling  
-- 📎 [View Project](#)
-
----
-
-### Customer Acquisition Financial Plan (Excel)
-
-- **Tools:** Excel, XLOOKUP, Pivot Tables, Charting  
-- **Summary:** Built a detailed financial plan for a marketing campaign, analyzing acquisition costs, ROI, and monthly performance using formulas and dashboards.
-- **Key Skills:** Budget planning, dashboard creation, cost analysis  
-- 📎 [View Project](#)
+### Power BI
+- [Credit Risk Project]
+  Used: Power BI, DAX, slicers, and filters | Built an interactive dashboard on credit risk using loan applicant data (~50,000 records), highlighting approval trends, risk segments, and income analysis.
+  
+- [Madrid Analysis Project]
+  Used: Power BI, DAX measures, calculated columns | Analyzed 20,000+ real estate listings to identify pricing drivers, location impacts, and housing trends.
 
 ---
 
@@ -70,27 +56,29 @@ My CV is available in [pdf](link-to-your-cv).
 Indira Gandhi National Open University (IGNOU)  
 *Expected Completion: 2026*
 
+
+**Bachelor of Arts (Honours) in Economics**  
+Delhi University (IGNOU)  
+*Completed: 2024*
 ---
 
 ## 📜 Certificates
 
-- **Data Analysis with Excel** – CloudyML  
-- **Python for Data Science** – CloudyML  
+- **Excel** – CloudyML  
+- **Python** – CloudyML  
 - **Power BI for Beginners** – CloudyML  
 - **Peer Support Training Certificate**  
-- **Bystander Intervention Workshop** – German college  
+- **Bystander Intervention Workshop**
 
 ---
 
 ## 📬 Contact
 
-- **Email:** [YourEmail@example.com]  
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
-- **GitHub:** [github.com/yourusername](#)
+- **Email:** [bhatejajahnvi@gmail.com](#bhatejajahnvi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](#https://www.linkedin.com/in/jahnvi-bhateja-52287a204/)  
 
 ---
 
-> *“Turning data into decisions.”*
-> This is a repository to showcase my skills, share projects, and track my journey in Economics, Data Analytics, and Policy Research.
+> *“Turning data into decisions while Analyzing people like Data.”*
 
 Feel free to connect or collaborate!
