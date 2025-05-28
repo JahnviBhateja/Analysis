@@ -16,9 +16,9 @@ My CV is available in [pdf](link-to-your-cv).
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-- [Education](#🎓-Education)
+- [Education](#education)
 - [Certificates](#certificates)
-- [Contact](#Contact)
+- [Contact](#contact)
 
 ## Portfolio Projects
 
@@ -50,7 +50,7 @@ Wrote SELECT queries, JOINs, and filtering operations to explore a cricket datas
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Arts in Economics**  
 Indira Gandhi National Open University (IGNOU)  
@@ -62,7 +62,7 @@ Delhi University (IGNOU)
 *Completed: 2024*
 ---
 
-## 📜 Certificates
+## Certificates
 
 - **Excel** – CloudyML  
 - **Python** – CloudyML  
@@ -72,7 +72,7 @@ Delhi University (IGNOU)
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email:** [bhatejajahnvi@gmail.com](#bhatejajahnvi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](#https://www.linkedin.com/in/jahnvi-bhateja-52287a204/)  
